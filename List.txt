@@ -1,5 +1,9 @@
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
 
+* = I did not watch
+
+(Furthur shows in their own list after the first group)
+
 - #
 - A
 American Dragon
@@ -11,6 +15,7 @@ Arthur
 Avatar TLA
 - B
 Banannas in PJs
+Bakugan *
 Bamzooki
 Barney the Dinosaur
 Basil Brush
@@ -18,6 +23,7 @@ Batman
 Bayblade
 Bear in the Big Blue House
 Bernerd (pocket time stopping watch)
+Bertha *
 Bill & Ben
 Biker Mice from Mars
 Blues Clues
@@ -70,6 +76,8 @@ Looney Toons
 - M
 Magic School Bus (The)
 Medabots
+Mr Benn *
+Muffin the mule
 Mona the Vampire
 Monster Rancher
 Mummies Alive
@@ -79,7 +87,7 @@ Mummies Alive
 Pingu
 Pinky and the Brain
 Pokemon
-Post Man Pat
+Postman Pat
 Power Puff Girls
 - Q
 - R
@@ -96,6 +104,7 @@ Samurai Jack
 Snoopy
 Static Shock
 Stingray
+Super Ted
 Sweet Life of Zack & Cody
 - T
 Teletubbys
@@ -116,6 +125,8 @@ Wackey Races
 Xailin Showdown
 YuGiOh
 - Z
+
+
 
 ***** Older Shows *****
 
@@ -141,12 +152,12 @@ Gladiators
 - H
 Home Improvement
 - I
+Ivor the Engine
 - J
 - K
 Knight Rider
 Knightmare
 - L
-Looney Toons
 - MNOP
 - Q
 Quantum Leap
@@ -155,24 +166,3 @@ Quantum Leap
 X-Files
 - Y
 - Z
-
-***** Shows I didnt watch *****
-- B
-Bakugan
-Bertha
-- I
-Ivor the Engine
-- M
-Muffin the mule
-Mr Benn
-- S
-Super Ted***** Shows I didnt watch *****
-- B
-Bertha
-- I
-Ivor the Engine
-- M
-Muffin the mule
-Mr Benn
-- S
-Super Ted
