@@ -10,6 +10,7 @@ American Dragon
 Angela Anaconda
 Animanicacs
 Animals of Farthing Wood *
+Angry Beavers (The) *
 Art Attack
 Arthur
 Avatar TLA
@@ -76,12 +77,13 @@ Kid Muscle
 Kid vs. Kat
 Kim Possible
 - L
-Looney Toons
+Looney Tunes
 - M
 Magic School Bus (The)
 Medabots
 Mr Benn *
 Muffin the mule *
+Muppet Show (The)
 Mona the Vampire
 Monster Rancher
 Mummies Alive
@@ -127,6 +129,8 @@ Tweenies
 - V
 - W
 Wackey Races
+Wacky World of Tex Avery (The) *
+Woody Woodpecker
 - X
 Xailin Showdown
 YuGiOh
@@ -171,6 +175,7 @@ Quantum Leap
 - R
 - S
 Scrubs
+Seinfeld
 - TUVW
 - X
 X-Files
