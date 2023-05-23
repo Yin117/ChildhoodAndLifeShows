@@ -9,7 +9,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 American Dragon
 Angela Anaconda
 Animanicacs
-Animals of Farthing Wood
+Animals of Farthing Wood *
 Art Attack
 Arthur
 Avatar TLA
@@ -25,13 +25,13 @@ Bear in the Big Blue House
 Bernerd (pocket time stopping watch)
 Bertha *
 Bill & Ben
-Biker Mice from Mars
+Biker Mice from Mars *
 Blues Clues
 Bob the Builder
 Bodger Badger
 Brum
 - C
-Captain Scarlet
+Captain Scarlet *
 Catch the Pidgeon
 Code Lyoko
 CodeName Kids Next Door
@@ -41,7 +41,7 @@ Courage the Cowardly Dog
 Cow and Chicken
 The Cramp Twins
 - D
-Danger Mouse
+Danger Mouse *
 Danny Phantom
 Denis the Menace
 Dexters Lab
@@ -49,7 +49,7 @@ Digimon
 Dinosaurs (not the mamma)
 Dragon Ball Z
 Drake and Josh
-Ducktales
+Ducktales *
 - E
 Ed, Edd & Eddy
 - F
@@ -65,6 +65,7 @@ Hong Kong Phooey
 - I
 I am Weasel
 I Carly
+Invader Zim *
 - J
 Jackie Chan Adventures
 Johnny Bravo
@@ -80,7 +81,7 @@ Looney Toons
 Magic School Bus (The)
 Medabots
 Mr Benn *
-Muffin the mule
+Muffin the mule *
 Mona the Vampire
 Monster Rancher
 Mummies Alive
@@ -102,21 +103,21 @@ Robot Wars
 Rolie Polie Olie (Robot Family)
 Rosie and Jim
 Rugrats
-Rupert
+Rupert *
 - S
 Sabrina the Teenage Witch
 Samurai Jack
 Snoopy
 Static Shock
-Stingray
-Super Ted
+Stingray *
+Super Ted *
 Sweet Life of Zack & Cody
 - T
 Teletubbys
 Thats so Raven
 Thomas the Tank Engine
 Thunderbirds
-TMNT
+Teenage Mutant Ninja Turtles
 Tom & Jerry
 Top Cat
 Tracy Beaker
@@ -149,15 +150,16 @@ Crystal Maze
 - E
 Everyone Loves Raymond
 - F
-Farscape
+Farscape *
 Friends
 Fresh Prince
 - G
 Gladiators
 - H
+How I met your Mother
 Home Improvement
 - I
-Ivor the Engine
+Ivor the Engine *
 - J
 - K
 Knight Rider
