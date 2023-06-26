@@ -54,6 +54,7 @@ Ducktales *
 - E
 Ed, Edd & Eddy
 - F
+Fireball XL5 *
 Fireman Sam
 Fosters home for Imaginary Friends
 - G
@@ -67,6 +68,7 @@ Hong Kong Phooey
 I am Weasel
 I Carly
 Invader Zim *
+Ivor the Engine *
 - J
 Jackie Chan Adventures
 Johnny Bravo
@@ -76,6 +78,7 @@ Kids Next Door
 Kid Muscle
 Kid vs. Kat
 Kim Possible
+Knightmare
 - L
 Looney Tunes
 - M
@@ -123,6 +126,7 @@ Thomas the Tank Engine
 Thunderbirds
 Teenage Mutant Ninja Turtles
 Tom & Jerry
+Tomorrow People (The) *
 Top Cat
 Tracy Beaker
 Transformers (Beast Wars, Beast Machines, Armada, Energon, Cybertron)
@@ -140,7 +144,7 @@ YuGiOh
 
 
 
-***** Older Shows *****
+***** Older/More-Adult Shows *****
 
 - #
 3rd Rock from the Sun
@@ -153,6 +157,7 @@ Buffy the Vampire Slayer
 Catchphrase
 Crystal Maze
 - D
+Dr Who
 - E
 Everyone Loves Raymond
 - F
@@ -166,11 +171,9 @@ Gladiators
 How I met your Mother
 Home Improvement
 - I
-Ivor the Engine *
 - J
 - K
 Knight Rider
-Knightmare
 - L
 - MNOP
 - Q
@@ -179,7 +182,9 @@ Quantum Leap
 - S
 Scrubs
 Seinfeld
-- TUVW
+- T
+Tripods (The) * (adaptation of John Christopher's The Tripods series of novels)
+- UVW
 - X
 X-Files
 - Y
