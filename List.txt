@@ -57,7 +57,6 @@ Ed, Edd & Eddy
 Fireman Sam
 Fosters home for Imaginary Friends
 - G
-G.I. Joe *
 Galactik Football
 Goosebumps
 Grim Adventures of Billy & Mandy (The)
@@ -83,7 +82,7 @@ Looney Tunes
 Magic School Bus (The)
 Medabots
 Mr Bean
-Mr Benn * // a character created by David McKee who originally appeared in several children's books
+Mr Benn * (a character created by David McKee who originally appeared in several children's books)
 Muffin the mule *
 Muppet Show (The)
 Mona the Vampire
@@ -161,6 +160,7 @@ Farscape *
 Friends
 Fresh Prince
 - G
+G.I. Joe *
 Gladiators
 - H
 How I met your Mother
